@@ -1,0 +1,29 @@
+.container{
+    height: 500px;
+    color:aliceblue;
+    text-align: center;
+}
+.first{
+    background-color: blue;
+}
+.second{
+    background-color: green;
+}
+.third{
+    background-color: aqua;
+}
+.fourth{
+    background-color: blueviolet;
+}
+.fifth{
+    background-color: red;
+}
+.sixth{
+    background-color: pink;
+}
+.seventh{
+    background-color: brown;
+}
+.row > * {
+    border: 1px solid white;
+}
